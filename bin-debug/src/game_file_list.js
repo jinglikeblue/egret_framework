@@ -1,0 +1,21 @@
+var game_file_list = [
+	"jing/view/gui/ASkinCom.js",
+	"skins/window/Window1Skin.js",
+	"skins/window/Window2Skin.js",
+	"skins/window/Window3Skin.js",
+	"view/window/Window1.js",
+	"view/window/Window2.js",
+	"view/window/Window3.js",
+	"skins/window/LoadingSkin.js",
+	"jing/view/gui/GUIManager.js",
+	"skins/scene/HallSkin.js",
+	"skins/window/WindLoadingSkin.js",
+	"view/scene/StageChange.js",
+	"view/window/Loading.js",
+	"AssetAdapter.js",
+	"LoadingUI.js",
+	"view/scene/Hall.js",
+	"view/window/WinLoading.js",
+	"Main.js",
+	"skins/scene/StageChangeSkin.js"
+];

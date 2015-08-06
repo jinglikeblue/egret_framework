@@ -1,0 +1,5 @@
+F:\code\egret_lib\egret_lib\bin\egret_lib.dll.config
+F:\code\egret_lib\egret_lib\bin\egret_lib.dll
+F:\code\egret_lib\egret_lib\bin\egret_lib.pdb
+F:\code\egret_lib\egret_lib\obj\Release\egret_lib.dll
+F:\code\egret_lib\egret_lib\obj\Release\egret_lib.pdb

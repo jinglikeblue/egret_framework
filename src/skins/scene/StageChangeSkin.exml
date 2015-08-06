@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="360" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="backgroud_a_jpg" x="0" y="0"/>
+	<e:Button id="btnBack" x="589" y="13" skinName="@ButtonSkin('back_png','back_png','back_png')"/>
+	<e:UIAsset source="chuji_png" x="23" y="93.5"/>
+	<e:UIAsset source="gaoji_png" x="179" y="93.5"/>
+	<e:UIAsset source="new_png" x="334" y="93.5"/>
+	<e:UIAsset source="zhongji_png" x="490" y="93.5"/>
+</e:Skin>
