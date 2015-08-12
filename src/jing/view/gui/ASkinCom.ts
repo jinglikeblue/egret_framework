@@ -21,17 +21,17 @@ class ASkinCom extends egret.gui.SkinnableComponent
 
     public init(): void
     {
-
+        //重写该代码来完成初始化
     }
 
     public addListeners(): void
     {
-
+        //重写代码来实现监听
     }
 
     public removeListeners(): void
     {
-
+        //重写代码来释放监听
     }
 
     public dispose(): void
