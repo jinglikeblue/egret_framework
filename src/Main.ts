@@ -118,11 +118,22 @@ class Main extends egret.DisplayObjectContainer {
         var loading: any = new Loading();
         var winLoading: any = new WinLoading();
         GUIManager.init(this.stage, loading, winLoading);
-        GUIManager.showScene(new Hall(null));
 
-        GUIManager.showWindow(Main.w1, true, true);
-        GUIManager.showWindow(Main.w1, true, true);
-        GUIManager.showWindow(Main.w1, true, true);
+        Main.hall = new Hall();
+        GUIManager.showScene(Main.hall);
+        GUIManager.showScene(new StageChange());
+
+        egret.setTimeout(function (): void
+        {
+            
+
+            GUIManager.showScene(Main.hall);
+        }, this, 5000);
+        
+
+        //GUIManager.showWindow(Main.w1, true, true);
+        //GUIManager.showWindow(Main.w1, true, true);
+        //GUIManager.showWindow(Main.w1, true, true);
         //GUIManager.showWindow(Main.w1, false, true);
 
         
@@ -131,6 +142,7 @@ class Main extends egret.DisplayObjectContainer {
     public static w1: ASkinCom = new Window1();
     public static w2: ASkinCom = new Window2();
     public static w3: ASkinCom = new Window3();
+    public static hall: Hall;
 
 
 }

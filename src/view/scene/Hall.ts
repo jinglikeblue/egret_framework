@@ -4,9 +4,10 @@
     public btnAdd: egret.gui.Button;
     public btnReduce: egret.gui.Button;
 
-    public constructor(data:any)
+    public constructor(data: any = null)
     {
-        super(skins.scene.HallSkin, data);    
+        super(skins.scene.HallSkin, data);
+        
     }
 
     public init(): void
