@@ -1,6 +1,5 @@
-﻿class Extend
+﻿class ExtendUtil
 {
-
     /**
      * 调用外部方法
      */
@@ -14,12 +13,4 @@
         var result: any = window[funName]();
         return result;
     }
-
-    public static callReadyShare(): any
-    {
-        //alert("调用初始化分享");
-        return Extend.callWindow("readyShare");
-    }
-
-
 }
