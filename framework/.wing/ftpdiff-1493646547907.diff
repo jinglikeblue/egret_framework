@@ -1,0 +1,902 @@
+{
+    "favicon.ico": [
+        -1197087816,
+        "1493646441631"
+    ],
+    "index.html": [
+        -1099400453,
+        "1493646441633"
+    ],
+    "main.min.js": [
+        907766614,
+        "1493646440997"
+    ],
+    "polyfill/promise.min.js": [
+        -1775724767,
+        "1493646441878"
+    ],
+    "resource/default.res.json": [
+        235942645,
+        "1493646441116"
+    ],
+    "resource/default.thm.json": [
+        2007316520,
+        "1493646441121"
+    ],
+    "libs/md5/md5.min.js": [
+        -1012141363,
+        "1493646441880"
+    ],
+    "resource/audios/Bet.mp3": [
+        1937341743,
+        "1493646441048"
+    ],
+    "resource/audios/bgmGame.mp3": [
+        null,
+        "1493646441101"
+    ],
+    "resource/audios/bgmHall.mp3": [
+        null,
+        "1493646441110"
+    ],
+    "resource/audios/Check.mp3": [
+        1640359342,
+        "1493646441049"
+    ],
+    "resource/audios/Deal.mp3": [
+        74321547,
+        "1493646441050"
+    ],
+    "resource/audios/End.mp3": [
+        -1311929706,
+        "1493646441054"
+    ],
+    "resource/audios/Fold.mp3": [
+        1955605991,
+        "1493646441055"
+    ],
+    "resource/audios/SelfWin.mp3": [
+        466459386,
+        "1493646441061"
+    ],
+    "resource/audios/Sweep.mp3": [
+        -1625072393,
+        "1493646441065"
+    ],
+    "resource/audios/TimeBank.mp3": [
+        -1400582982,
+        "1493646441071"
+    ],
+    "resource/audios/VoiceAllin.mp3": [
+        1421594877,
+        "1493646441075"
+    ],
+    "resource/audios/VoiceBet.mp3": [
+        -1034240019,
+        "1493646441076"
+    ],
+    "resource/audios/VoiceCall.mp3": [
+        263962437,
+        "1493646441077"
+    ],
+    "resource/audios/VoiceCheck.mp3": [
+        323159076,
+        "1493646441078"
+    ],
+    "resource/audios/VoiceFold.mp3": [
+        22214149,
+        "1493646441079"
+    ],
+    "resource/audios/VoiceRaise.mp3": [
+        -587180844,
+        "1493646441093"
+    ],
+    "resource/config/description.json": [
+        1407991018,
+        "1493646441111"
+    ],
+    "resource/config/setting.json": [
+        752063277,
+        "1493646441112"
+    ],
+    "resource/eui_skins/ButtonSkin.exml": [
+        -510927167,
+        "1493646441123"
+    ],
+    "resource/eui_skins/CheckBoxSkin.exml": [
+        -1555567280,
+        "1493646441124"
+    ],
+    "resource/eui_skins/HScrollBarSkin.exml": [
+        -1759955085,
+        "1493646441126"
+    ],
+    "resource/eui_skins/HSliderSkin.exml": [
+        634260086,
+        "1493646441130"
+    ],
+    "resource/eui_skins/ItemRendererSkin.exml": [
+        -1304331657,
+        "1493646441131"
+    ],
+    "resource/eui_skins/PanelSkin.exml": [
+        374083318,
+        "1493646441132"
+    ],
+    "resource/eui_skins/ProgressBarSkin.exml": [
+        63909079,
+        "1493646441133"
+    ],
+    "resource/eui_skins/RadioButtonSkin.exml": [
+        -861555395,
+        "1493646441134"
+    ],
+    "resource/eui_skins/ScrollerSkin.exml": [
+        -226941180,
+        "1493646441135"
+    ],
+    "resource/eui_skins/TextInputSkin.exml": [
+        980569530,
+        "1493646441136"
+    ],
+    "resource/eui_skins/ToggleSwitchSkin.exml": [
+        512752762,
+        "1493646441137"
+    ],
+    "resource/eui_skins/VScrollBarSkin.exml": [
+        1506351161,
+        "1493646441139"
+    ],
+    "resource/eui_skins/VSliderSkin.exml": [
+        1465821042,
+        "1493646441140"
+    ],
+    "libs/modules/egret/egret.min.js": [
+        null,
+        "1493646441690"
+    ],
+    "libs/modules/egret/egret.web.min.js": [
+        null,
+        "1493646441749"
+    ],
+    "libs/modules/eui/eui.min.js": [
+        null,
+        "1493646441851"
+    ],
+    "libs/modules/game/game.min.js": [
+        12949987,
+        "1493646441776"
+    ],
+    "libs/modules/res/res.min.js": [
+        -1307572645,
+        "1493646441799"
+    ],
+    "libs/modules/socket/socket.min.js": [
+        -1686751987,
+        "1493646441876"
+    ],
+    "libs/modules/tween/tween.min.js": [
+        1433776829,
+        "1493646441874"
+    ],
+    "resource/assets/Button/button_down.png": [
+        -1811598375,
+        "1493646441017"
+    ],
+    "resource/assets/Button/button_up.png": [
+        -1329405106,
+        "1493646441018"
+    ],
+    "resource/assets/CheckBox/checkbox_select_disabled.png": [
+        450911120,
+        "1493646441019"
+    ],
+    "resource/assets/CheckBox/checkbox_select_down.png": [
+        1731848189,
+        "1493646441021"
+    ],
+    "resource/assets/CheckBox/checkbox_select_up.png": [
+        2079181669,
+        "1493646441024"
+    ],
+    "resource/assets/CheckBox/checkbox_unselect.png": [
+        978323561,
+        "1493646441026"
+    ],
+    "resource/assets/ItemRenderer/selected.png": [
+        -1496166998,
+        "1493646441027"
+    ],
+    "resource/assets/Panel/border.png": [
+        -1012512181,
+        "1493646441029"
+    ],
+    "resource/assets/Panel/header.png": [
+        -172040052,
+        "1493646441030"
+    ],
+    "resource/assets/ProgressBar/thumb_pb.png": [
+        144264495,
+        "1493646441031"
+    ],
+    "resource/assets/ProgressBar/track_pb.png": [
+        1925869113,
+        "1493646441032"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_disabled.png": [
+        1490382934,
+        "1493646441033"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_down.png": [
+        1490382934,
+        "1493646441035"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_up.png": [
+        797716121,
+        "1493646441036"
+    ],
+    "resource/assets/RadioButton/radiobutton_unselect.png": [
+        1314572101,
+        "1493646441037"
+    ],
+    "resource/assets/ScrollBar/roundthumb.png": [
+        -909991001,
+        "1493646441038"
+    ],
+    "resource/assets/ScrollBar/track_sb.png": [
+        2090965559,
+        "1493646441039"
+    ],
+    "resource/assets/Slider/track.png": [
+        2090965559,
+        "1493646441042"
+    ],
+    "resource/assets/Slider/thumb.png": [
+        1762541776,
+        "1493646441040"
+    ],
+    "resource/assets/Slider/tracklight.png": [
+        -909991001,
+        "1493646441043"
+    ],
+    "resource/assets/ToggleSwitch/handle.png": [
+        -1621204125,
+        "1493646441044"
+    ],
+    "resource/assets/ToggleSwitch/off.png": [
+        204087173,
+        "1493646441045"
+    ],
+    "resource/assets/ToggleSwitch/on.png": [
+        850040711,
+        "1493646441047"
+    ],
+    "resource/imgs/loading/img_bg_loadingwindow.png": [
+        836967458,
+        "1493646441141"
+    ],
+    "resource/imgs/loading/img_loading.png": [
+        null,
+        "1493646441143"
+    ],
+    "resource/imgs/loading/img_loadingwindow_bar.png": [
+        -1537309745,
+        "1493646441144"
+    ],
+    "resource/imgs/loading/loading_win.png": [
+        -565404401,
+        "1493646441145"
+    ],
+    "resource/imgs/sheets/poker_cards_normal.json": [
+        1255843187,
+        "1493646441207"
+    ],
+    "resource/imgs/sheets/poker_cards_normal.png": [
+        null,
+        "1493646441208"
+    ],
+    "resource/imgs/temp/block_bg.png": [
+        null,
+        "1493646441210"
+    ],
+    "resource/imgs/temp/block_icon.png": [
+        2100271786,
+        "1493646441211"
+    ],
+    "resource/imgs/temp/face_select.png": [
+        null,
+        "1493646441217"
+    ],
+    "resource/imgs/temp/table-dealer.png": [
+        -1609899908,
+        "1493646441218"
+    ],
+    "resource/skins/scenes/HallSceneSkin.exml": [
+        320057088,
+        "1493646441356"
+    ],
+    "resource/skins/scenes/LoginSceneSkin.exml": [
+        -1536576405,
+        "1493646441359"
+    ],
+    "resource/skins/scenes/LoadSceneSkin.exml": [
+        -688536637,
+        "1493646441357"
+    ],
+    "resource/skins/scenes/RoomSceneSkin.exml": [
+        -1256265046,
+        "1493646441364"
+    ],
+    "resource/skins/components/GameCardComSkin.exml": [
+        779356463,
+        "1493646441337"
+    ],
+    "resource/skins/windows/LoadWinSkin.exml": [
+        1169727837,
+        "1493646441365"
+    ],
+    "resource/skins/windows/NetRequestWinSkin.exml": [
+        -1165963547,
+        "1493646441367"
+    ],
+    "resource/skins/windows/MsgWinSkin.exml": [
+        1293563556,
+        "1493646441366"
+    ],
+    "resource/imgs/scene/game/btn_cardtype_a.png": [
+        1314290729,
+        "1493646441147"
+    ],
+    "resource/imgs/scene/game/btn_cardtype_z.png": [
+        267420724,
+        "1493646441148"
+    ],
+    "resource/imgs/scene/game/btn_leave_a.png": [
+        283332711,
+        "1493646441149"
+    ],
+    "resource/imgs/scene/game/btn_leave_z.png": [
+        857861383,
+        "1493646441150"
+    ],
+    "resource/imgs/scene/game/btn_menu.png": [
+        -1166461134,
+        "1493646441151"
+    ],
+    "resource/imgs/scene/game/btn_setting_a.png": [
+        1179383184,
+        "1493646441152"
+    ],
+    "resource/imgs/scene/game/btn_setting_z.png": [
+        1072847724,
+        "1493646441154"
+    ],
+    "resource/imgs/scene/game/btn_standup_a.png": [
+        1755458486,
+        "1493646441155"
+    ],
+    "resource/imgs/scene/game/btn_standup_z.png": [
+        -2015549949,
+        "1493646441156"
+    ],
+    "resource/imgs/scene/game/img_bet.png": [
+        -1013759631,
+        "1493646441157"
+    ],
+    "resource/imgs/scene/game/img_bg_game.png": [
+        null,
+        "1493646441159"
+    ],
+    "resource/imgs/scene/game/img_bg_opt.png": [
+        1251258797,
+        "1493646441160"
+    ],
+    "resource/imgs/scene/game/img_cardtype.png": [
+        null,
+        "1493646441161"
+    ],
+    "resource/imgs/scene/game/img_chair.png": [
+        14742121,
+        "1493646441162"
+    ],
+    "resource/imgs/scene/game/img_handcard.png": [
+        1343236871,
+        "1493646441163"
+    ],
+    "resource/imgs/scene/game/img_optpanel.png": [
+        2055622221,
+        "1493646441169"
+    ],
+    "resource/imgs/scene/game/img_opt_focus_1.png": [
+        -1036394544,
+        "1493646441164"
+    ],
+    "resource/imgs/scene/game/img_opt_focus_2.png": [
+        1362753272,
+        "1493646441165"
+    ],
+    "resource/imgs/scene/game/img_opt_focus_3.png": [
+        264224076,
+        "1493646441166"
+    ],
+    "resource/imgs/scene/game/img_opt_focus_4.png": [
+        151384394,
+        "1493646441167"
+    ],
+    "resource/imgs/scene/game/img_opt_value_focus.png": [
+        2114033482,
+        "1493646441168"
+    ],
+    "resource/imgs/scene/game/img_player_state_panel.png": [
+        1913561611,
+        "1493646441170"
+    ],
+    "resource/imgs/scene/game/img_player_win_panel.png": [
+        -902351556,
+        "1493646441171"
+    ],
+    "resource/imgs/scene/game/img_role.png": [
+        1955468245,
+        "1493646441173"
+    ],
+    "resource/imgs/scene/game/img_sitdown.png": [
+        1125742443,
+        "1493646441174"
+    ],
+    "resource/imgs/scene/game/img_ticker_circle_left.png": [
+        637529278,
+        "1493646441175"
+    ],
+    "resource/imgs/scene/game/img_ticker_circle_right.png": [
+        476184586,
+        "1493646441176"
+    ],
+    "resource/imgs/scene/game/img_ticker_mask_left.png": [
+        -198568555,
+        "1493646441177"
+    ],
+    "resource/imgs/scene/game/img_ticker_mask_right.png": [
+        1832654660,
+        "1493646441178"
+    ],
+    "resource/imgs/scene/hall/img_activity_a.png": [
+        -386848660,
+        "1493646441179"
+    ],
+    "resource/imgs/scene/hall/img_activity_z.png": [
+        71227638,
+        "1493646441181"
+    ],
+    "resource/imgs/scene/hall/img_bg_hall.png": [
+        null,
+        "1493646441182"
+    ],
+    "resource/imgs/scene/hall/img_exchange_a.png": [
+        1450106444,
+        "1493646441183"
+    ],
+    "resource/imgs/scene/hall/img_exchange_z.png": [
+        1691252705,
+        "1493646441184"
+    ],
+    "resource/imgs/scene/hall/img_exp_bar.png": [
+        -1889136623,
+        "1493646441185"
+    ],
+    "resource/imgs/scene/hall/img_exp_bar_bg.png": [
+        -992402624,
+        "1493646441186"
+    ],
+    "resource/imgs/scene/hall/img_gold_icon.png": [
+        -1642207619,
+        "1493646441187"
+    ],
+    "resource/imgs/scene/hall/img_help_a.png": [
+        1221194809,
+        "1493646441189"
+    ],
+    "resource/imgs/scene/hall/img_help_z.png": [
+        -736679283,
+        "1493646441190"
+    ],
+    "resource/imgs/scene/hall/img_light.png": [
+        -225996606,
+        "1493646441191"
+    ],
+    "resource/imgs/scene/hall/img_prettygirl.png": [
+        null,
+        "1493646441192"
+    ],
+    "resource/imgs/scene/hall/img_quickstart_a.png": [
+        -773631899,
+        "1493646441193"
+    ],
+    "resource/imgs/scene/hall/img_quickstart_z.png": [
+        -1121019099,
+        "1493646441195"
+    ],
+    "resource/imgs/scene/hall/img_rank_a.png": [
+        674133883,
+        "1493646441196"
+    ],
+    "resource/imgs/scene/hall/img_rank_z.png": [
+        -1400060282,
+        "1493646441198"
+    ],
+    "resource/imgs/scene/hall/img_setting_a.png": [
+        1704019661,
+        "1493646441199"
+    ],
+    "resource/imgs/scene/hall/img_setting_z.png": [
+        2080967409,
+        "1493646441200"
+    ],
+    "resource/imgs/scene/hall/img_shop_a.png": [
+        1669723040,
+        "1493646441202"
+    ],
+    "resource/imgs/scene/hall/img_shop_z.png": [
+        -907261188,
+        "1493646441203"
+    ],
+    "resource/imgs/scene/hall/img_stage_a.png": [
+        2069086556,
+        "1493646441204"
+    ],
+    "resource/imgs/scene/hall/img_stage_z.png": [
+        973855032,
+        "1493646441205"
+    ],
+    "resource/imgs/temp/cards/card_big_type.png": [
+        -81761488,
+        "1493646441213"
+    ],
+    "resource/imgs/temp/cards/card_bg.png": [
+        -1091079329,
+        "1493646441212"
+    ],
+    "resource/imgs/temp/cards/card_small_type.png": [
+        2010480074,
+        "1493646441214"
+    ],
+    "resource/imgs/temp/cards/card_value.png": [
+        -1502389095,
+        "1493646441216"
+    ],
+    "resource/imgs/window/activity/btn_activity_1_a.png": [
+        -201325025,
+        "1493646441220"
+    ],
+    "resource/imgs/window/activity/btn_activity_1_z.png": [
+        -1227186702,
+        "1493646441221"
+    ],
+    "resource/imgs/window/activity/btn_activity_2_a.png": [
+        237355856,
+        "1493646441222"
+    ],
+    "resource/imgs/window/activity/btn_activity_2_z.png": [
+        680684479,
+        "1493646441223"
+    ],
+    "resource/imgs/window/activity/img_activity_1.png": [
+        -1227186702,
+        "1493646441224"
+    ],
+    "resource/imgs/window/activity/img_activity_2.png": [
+        680684479,
+        "1493646441225"
+    ],
+    "resource/imgs/window/activity/img_bg_activity.png": [
+        460488797,
+        "1493646441227"
+    ],
+    "resource/imgs/window/gift/btn_get_a.png": [
+        -937490341,
+        "1493646441233"
+    ],
+    "resource/imgs/window/gift/btn_get_z.png": [
+        -1639574970,
+        "1493646441234"
+    ],
+    "resource/imgs/window/gift/img_bg_gift.png": [
+        null,
+        "1493646441235"
+    ],
+    "resource/imgs/window/gift/img_gift_got.png": [
+        275994277,
+        "1493646441238"
+    ],
+    "resource/imgs/window/gift/img_gift_bar.png": [
+        405268,
+        "1493646441236"
+    ],
+    "resource/imgs/window/gift/img_gift_got_today.png": [
+        -22383129,
+        "1493646441239"
+    ],
+    "resource/imgs/window/exchange/img_bg_exchange.png": [
+        null,
+        "1493646441228"
+    ],
+    "resource/imgs/window/exchange/input_a.png": [
+        -1776557774,
+        "1493646441229"
+    ],
+    "resource/imgs/window/exchange/input_z.png": [
+        -949960521,
+        "1493646441230"
+    ],
+    "resource/imgs/window/help/img_bg_help.png": [
+        -2135564292,
+        "1493646441240"
+    ],
+    "resource/imgs/window/help/img_help_1.png": [
+        822517808,
+        "1493646441241"
+    ],
+    "resource/imgs/window/help/img_help_2.png": [
+        1079040952,
+        "1493646441242"
+    ],
+    "resource/imgs/window/help/img_help_3.png": [
+        748584284,
+        "1493646441244"
+    ],
+    "resource/imgs/window/popup/btn_cancel_a.png": [
+        1611169611,
+        "1493646441246"
+    ],
+    "resource/imgs/window/popup/btn_ok_a.png": [
+        463000748,
+        "1493646441248"
+    ],
+    "resource/imgs/window/popup/btn_cancel_z.png": [
+        -646304884,
+        "1493646441247"
+    ],
+    "resource/imgs/window/popup/btn_ok_z.png": [
+        962879316,
+        "1493646441249"
+    ],
+    "resource/imgs/window/popup/img_bg_popup.png": [
+        1019781618,
+        "1493646441250"
+    ],
+    "resource/imgs/window/rank/btn_rank_gold_a.png": [
+        708481842,
+        "1493646441251"
+    ],
+    "resource/imgs/window/rank/btn_rank_gold_z.png": [
+        1839195700,
+        "1493646441253"
+    ],
+    "resource/imgs/window/rank/btn_rank_level_a.png": [
+        -1497148240,
+        "1493646441254"
+    ],
+    "resource/imgs/window/rank/btn_rank_level_z.png": [
+        -706862619,
+        "1493646441255"
+    ],
+    "resource/imgs/window/rank/img_bg_rank.png": [
+        1494002971,
+        "1493646441256"
+    ],
+    "resource/imgs/window/rank/img_rankitem_focus.png": [
+        -1317602509,
+        "1493646441258"
+    ],
+    "resource/imgs/window/setting/btn_changehead_a.png": [
+        1577348845,
+        "1493646441259"
+    ],
+    "resource/imgs/window/setting/btn_changehead_z.png": [
+        1452350559,
+        "1493646441260"
+    ],
+    "resource/imgs/window/setting/cb_check.png": [
+        -1010616319,
+        "1493646441261"
+    ],
+    "resource/imgs/window/setting/cb_focus.png": [
+        -2039918455,
+        "1493646441263"
+    ],
+    "resource/imgs/window/setting/cb_normal.png": [
+        1613607889,
+        "1493646441264"
+    ],
+    "resource/imgs/window/setting/img_bg_setting.png": [
+        761876337,
+        "1493646441265"
+    ],
+    "resource/imgs/window/setting/img_card.png": [
+        1882022740,
+        "1493646441266"
+    ],
+    "resource/imgs/window/setting/img_choosehead_female.png": [
+        null,
+        "1493646441267"
+    ],
+    "resource/imgs/window/setting/img_choosehead_male.png": [
+        null,
+        "1493646441269"
+    ],
+    "resource/imgs/window/setting/img_head.png": [
+        -306260163,
+        "1493646441270"
+    ],
+    "resource/imgs/window/setting/img_head_border.png": [
+        -520860422,
+        "1493646441291"
+    ],
+    "resource/imgs/window/shop/img_bg_shop.png": [
+        null,
+        "1493646441293"
+    ],
+    "resource/imgs/window/shop/shop_item_1_a.png": [
+        -1650018197,
+        "1493646441295"
+    ],
+    "resource/imgs/window/shop/shop_item_1_z.png": [
+        -2033600825,
+        "1493646441296"
+    ],
+    "resource/imgs/window/shop/shop_item_2_a.png": [
+        -965772280,
+        "1493646441298"
+    ],
+    "resource/imgs/window/shop/shop_item_2_z.png": [
+        -1354809739,
+        "1493646441299"
+    ],
+    "resource/imgs/window/shop/shop_item_3_a.png": [
+        1719115615,
+        "1493646441301"
+    ],
+    "resource/imgs/window/shop/shop_item_3_z.png": [
+        1683679293,
+        "1493646441302"
+    ],
+    "resource/imgs/window/shop/shop_item_4_a.png": [
+        776471105,
+        "1493646441304"
+    ],
+    "resource/imgs/window/shop/shop_item_4_z.png": [
+        -1303598932,
+        "1493646441306"
+    ],
+    "resource/imgs/window/shop/shop_item_5_a.png": [
+        -232200699,
+        "1493646441307"
+    ],
+    "resource/imgs/window/shop/shop_item_5_z.png": [
+        202705776,
+        "1493646441309"
+    ],
+    "resource/imgs/window/shop/shop_item_6_a.png": [
+        1757009077,
+        "1493646441310"
+    ],
+    "resource/imgs/window/shop/shop_item_6_z.png": [
+        -1818518274,
+        "1493646441311"
+    ],
+    "resource/imgs/window/stage/btn_close_z.png": [
+        1341848102,
+        "1493646441314"
+    ],
+    "resource/imgs/window/stage/btn_close_a.png": [
+        463775465,
+        "1493646441313"
+    ],
+    "resource/imgs/window/stage/btn_stage_1_a.png": [
+        719924530,
+        "1493646441315"
+    ],
+    "resource/imgs/window/stage/btn_stage_1_z.png": [
+        -274629378,
+        "1493646441316"
+    ],
+    "resource/imgs/window/stage/btn_stage_2_a.png": [
+        -1637879795,
+        "1493646441318"
+    ],
+    "resource/imgs/window/stage/btn_stage_2_z.png": [
+        -673770934,
+        "1493646441320"
+    ],
+    "resource/imgs/window/stage/btn_stage_3_a.png": [
+        -130180132,
+        "1493646441323"
+    ],
+    "resource/imgs/window/stage/btn_stage_3_z.png": [
+        -1971970808,
+        "1493646441324"
+    ],
+    "resource/imgs/window/stage/btn_stage_4_a.png": [
+        24835495,
+        "1493646441325"
+    ],
+    "resource/imgs/window/stage/btn_stage_4_z.png": [
+        1677827596,
+        "1493646441327"
+    ],
+    "resource/imgs/window/stage/btn_stage_quickstart_z.png": [
+        640175281,
+        "1493646441329"
+    ],
+    "resource/imgs/window/stage/btn_stage_quickstart_a.png": [
+        1380973466,
+        "1493646441328"
+    ],
+    "resource/imgs/window/stage/img_bg_stage.png": [
+        -74949498,
+        "1493646441330"
+    ],
+    "resource/imgs/window/stage/img_scroll_bar.png": [
+        403435229,
+        "1493646441331"
+    ],
+    "resource/imgs/window/stage/img_scroll_line.png": [
+        1624896579,
+        "1493646441332"
+    ],
+    "resource/imgs/window/stage/img_stageitem_focus.png": [
+        -1535910643,
+        "1493646441336"
+    ],
+    "resource/imgs/window/stage/img_stage_bar.png": [
+        -1856883817,
+        "1493646441333"
+    ],
+    "resource/imgs/window/stage/img_stage_bar_bg.png": [
+        231777585,
+        "1493646441335"
+    ],
+    "resource/skins/components/room/ChatComSkin.exml": [
+        1908015475,
+        "1493646441345"
+    ],
+    "resource/skins/components/room/OperationComSkin.exml": [
+        -1441052275,
+        "1493646441346"
+    ],
+    "resource/skins/components/room/PlayerChipComSkin.exml": [
+        1034893827,
+        "1493646441347"
+    ],
+    "resource/skins/components/room/SplitPotComSkin.exml": [
+        -1892790990,
+        "1493646441348"
+    ],
+    "resource/skins/components/room/TableChipComSkin.exml": [
+        279847515,
+        "1493646441353"
+    ],
+    "resource/skins/components/room/TablePlayerComSkin.exml": [
+        -2044293749,
+        "1493646441355"
+    ],
+    "resource/skins/components/hall/NewsComSkin.exml": [
+        -1722281565,
+        "1493646441339"
+    ],
+    "resource/skins/components/hall/RoomDetailComSkin.exml": [
+        842911702,
+        "1493646441340"
+    ],
+    "resource/skins/components/hall/SelfHeadComSkin.exml": [
+        -1192216160,
+        "1493646441341"
+    ],
+    "resource/skins/components/hall/roomlists/RoomListItemComSkin.exml": [
+        -86253656,
+        "1493646441344"
+    ],
+    "resource/skins/components/hall/roomlists/RoomListComSkin.exml": [
+        972419422,
+        "1493646441343"
+    ]
+}

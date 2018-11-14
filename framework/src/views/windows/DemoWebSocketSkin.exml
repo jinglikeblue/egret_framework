@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DemoWebSocketSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="win_bg_png"/>
+	<e:Button id="btnClose" label="关闭" x="533" y="14"/>
+	<e:EditableText id="txtServer" width="319" height="36" text="" x="19" y="39" anchorOffsetX="0" anchorOffsetY="0" background="true" backgroundColor="0xffffff" prompt="服务器地址" textColor="0x000000" size="20" verticalAlign="middle"/>
+	<e:EditableText id="txtMsg" width="319" height="136" text="" x="19" y="128" anchorOffsetX="0" anchorOffsetY="0" background="true" backgroundColor="0xFFFFFF" prompt="消息内容" textColor="0x000000" size="20" verticalAlign="top"/>
+	<e:Button id="btnConnect" label="连接" x="351" y="40" anchorOffsetY="0" height="35"/>
+	<e:Button id="btnSend" label="发送" x="351" y="128" anchorOffsetY="0" height="35"/>
+</e:Skin>

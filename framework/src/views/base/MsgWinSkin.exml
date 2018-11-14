@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MsgWinSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="win_bg_png"/>
+	<e:Label id="lbMsg" text="Label" y="72" anchorOffsetX="0" width="399" anchorOffsetY="0" height="73" textAlign="center" verticalAlign="middle" horizontalCenter="0" fontFamily="SimHei"/>
+	<e:Button id="btnOK" label="OK" y="228" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,22 @@
+{
+    "useClip": true,
+    "maxImageWidth": 1024,
+    "maxImageHeight": 1024,
+    "defaultResPath": "e:\\projects\\html5\\texas_poker_client\\codes\\texas_poker\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "core": true,
+        "bgms": true,
+        "soundeffects": true,
+        "login": true,
+        "createuser": true,
+        "hallscene": true,
+        "head_setting_win": true,
+        "game_record": true,
+        "game_record_list": true,
+        "game_record_replay": true,
+        "insure": true,
+        "createroom": true,
+        "joinroom": true
+    }
+}

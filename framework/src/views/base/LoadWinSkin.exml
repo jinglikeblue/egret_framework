@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadWinSkin" width="200" height="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0"/>
+	<e:Label id="lb" text="0%" verticalCenter="0" left="0" right="0" verticalAlign="middle" textAlign="center" size="30"/>
+</e:Skin>

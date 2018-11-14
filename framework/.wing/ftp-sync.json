@@ -1,0 +1,44 @@
+[
+    {
+        "name": "WEPIECES",
+        "host": "118.89.62.22",
+        "user": "root",
+        "password": "!QAZ2wsx",
+        "port": 22,
+        "protocol": "sftp",
+        "remotePath": "mydata/www/game/h5/texas/test/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1493450834988.diff",
+        "usediffFile": true
+    },
+    {
+        "name": "PiecesServer",
+        "host": "118.89.62.22",
+        "user": "root",
+        "password": "!QAZ2wsx",
+        "port": 22,
+        "protocol": "sftp",
+        "remotePath": "mydata/www/game/h5/texas/test/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1493646547907.diff",
+        "usediffFile": true
+    }
+]

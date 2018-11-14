@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DemoSceneSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="demo_scene_bg_jpeg" locked="true"/>
+	<e:Button id="btnClick" label="Window" x="226" y="290"/>
+	<e:Button id="btnAudio" label="Audio" x="389" y="290"/>
+	<e:Button id="btnWX" label="微信" x="226" y="384"/>
+	<e:Button id="btnRecord" label="按下录音" x="390" y="384"/>
+	<e:Button id="btnRequest" label="Request" x="80" y="290"/>
+	<e:Button id="btnWS" label="WebSocket" x="80" y="384"/>
+</e:Skin>

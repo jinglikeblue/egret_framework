@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.VSliderSkin" minWidth="25" minHeight="30" xmlns:e="http://ns.egret.com/eui">
+    <e:Image id="track" height="100%" horizontalCenter="0" source="" scale9Grid="0,24,20,413"/>
+    <e:Image id="thumb" horizontalCenter="0"  source="dating_paizhuoxinxi_gundongtiao_hualun_png"/>
+</e:Skin>

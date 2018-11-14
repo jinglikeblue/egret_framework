@@ -1,0 +1,626 @@
+{
+    "favicon.ico": [
+        -1197087816,
+        "1493450711166"
+    ],
+    "index.html": [
+        -1099400453,
+        "1493450711176"
+    ],
+    "main.min.js": [
+        1604031163,
+        "1493450709877"
+    ],
+    "polyfill/promise.min.js": [
+        -1775724767,
+        "1493450711741"
+    ],
+    "resource/default.res.json": [
+        1721511307,
+        "1493450724972"
+    ],
+    "resource/default.thm.json": [
+        9848355,
+        "1493450710303"
+    ],
+    "libs/md5/md5.min.js": [
+        -1012141363,
+        "1493450711770"
+    ],
+    "resource/audios/Bet_5ed9db57.mp3": [
+        1937341743,
+        "1493450724930"
+    ],
+    "resource/audios/bgmGame_1f9d6968.mp3": [
+        null,
+        "1493450724854"
+    ],
+    "resource/audios/bgmHall_62e78640.mp3": [
+        null,
+        "1493450724904"
+    ],
+    "resource/audios/Check_1b4e4f2b.mp3": [
+        1640359342,
+        "1493450724932"
+    ],
+    "resource/audios/Deal_57b68970.mp3": [
+        74321547,
+        "1493450724935"
+    ],
+    "resource/audios/End_5da5462d.mp3": [
+        -1311929706,
+        "1493450724939"
+    ],
+    "resource/audios/Fold_ee38a37.mp3": [
+        1955605991,
+        "1493450724941"
+    ],
+    "resource/audios/SelfWin_2e25f1ca.mp3": [
+        466459386,
+        "1493450724945"
+    ],
+    "resource/audios/Sweep_39ba0deb.mp3": [
+        -1625072393,
+        "1493450724949"
+    ],
+    "resource/audios/TimeBank_5107c580.mp3": [
+        -1400582982,
+        "1493450724953"
+    ],
+    "resource/audios/VoiceAllin_2bfc430c.mp3": [
+        1421594877,
+        "1493450724957"
+    ],
+    "resource/audios/VoiceBet_1686b165.mp3": [
+        -1034240019,
+        "1493450724958"
+    ],
+    "resource/audios/VoiceCall_1cf3477.mp3": [
+        263962437,
+        "1493450724959"
+    ],
+    "resource/audios/VoiceCheck_5f5d395e.mp3": [
+        323159076,
+        "1493450724960"
+    ],
+    "resource/audios/VoiceFold_1a3c8fb0.mp3": [
+        22214149,
+        "1493450724964"
+    ],
+    "resource/audios/VoiceRaise_3ba499b8.mp3": [
+        -587180844,
+        "1493450724968"
+    ],
+    "resource/config/description.json": [
+        1407991018,
+        "1493450710282"
+    ],
+    "resource/config/setting_95d2d8f.json": [
+        1134146379,
+        "1493450724929"
+    ],
+    "resource/eui_skins/ButtonSkin.exml": [
+        -510927167,
+        "1493450710306"
+    ],
+    "resource/eui_skins/HScrollBarSkin.exml": [
+        -1759955085,
+        "1493450710317"
+    ],
+    "resource/eui_skins/CheckBoxSkin.exml": [
+        -1555567280,
+        "1493450710309"
+    ],
+    "resource/eui_skins/HSliderSkin.exml": [
+        634260086,
+        "1493450710318"
+    ],
+    "resource/eui_skins/ItemRendererSkin.exml": [
+        -1304331657,
+        "1493450710320"
+    ],
+    "resource/eui_skins/PanelSkin.exml": [
+        374083318,
+        "1493450710321"
+    ],
+    "resource/eui_skins/ProgressBarSkin.exml": [
+        63909079,
+        "1493450710322"
+    ],
+    "resource/eui_skins/RadioButtonSkin.exml": [
+        -861555395,
+        "1493450710323"
+    ],
+    "resource/eui_skins/ScrollerSkin.exml": [
+        -226941180,
+        "1493450710323"
+    ],
+    "resource/eui_skins/ToggleSwitchSkin.exml": [
+        512752762,
+        "1493450710325"
+    ],
+    "resource/eui_skins/TextInputSkin.exml": [
+        980569530,
+        "1493450710324"
+    ],
+    "resource/eui_skins/VScrollBarSkin.exml": [
+        1506351161,
+        "1493450710328"
+    ],
+    "resource/eui_skins/VSliderSkin.exml": [
+        1465821042,
+        "1493450710329"
+    ],
+    "resource/packs0/hall-0sheet_2256b2a4.json": [
+        928478317,
+        "1493450724659"
+    ],
+    "resource/packs0/hall-0sheet_3bff4d4a.png": [
+        null,
+        "1493450724675"
+    ],
+    "resource/packs0/msgbox-0sheet_5747406e.json": [
+        -836756344,
+        "1493450724321"
+    ],
+    "resource/packs0/preload-0sheet_3a7d004e.png": [
+        null,
+        "1493450724297"
+    ],
+    "resource/packs0/msgbox-0sheet_785a1d4b.png": [
+        null,
+        "1493450724322"
+    ],
+    "resource/packs0/preload-0sheet_e76b7a0.json": [
+        973947468,
+        "1493450724287"
+    ],
+    "libs/modules/egret/egret.min.js": [
+        null,
+        "1493450711288"
+    ],
+    "libs/modules/egret/egret.web.min.js": [
+        null,
+        "1493450711407"
+    ],
+    "libs/modules/eui/eui.min.js": [
+        null,
+        "1493450711626"
+    ],
+    "libs/modules/game/game.min.js": [
+        12949987,
+        "1493450711466"
+    ],
+    "libs/modules/res/res.min.js": [
+        -1307572645,
+        "1493450711516"
+    ],
+    "libs/modules/socket/socket.min.js": [
+        -1686751987,
+        "1493450711708"
+    ],
+    "libs/modules/tween/tween.min.js": [
+        1433776829,
+        "1493450711669"
+    ],
+    "resource/assets/Button/button_up_28d8bef8.png": [
+        -1329405106,
+        "1493450724781"
+    ],
+    "resource/assets/Button/button_down_322585.png": [
+        -1811598375,
+        "1493450724778"
+    ],
+    "resource/assets/CheckBox/checkbox_select_disabled_4770b925.png": [
+        450911120,
+        "1493450724783"
+    ],
+    "resource/assets/CheckBox/checkbox_select_down_487d973b.png": [
+        1731848189,
+        "1493450724784"
+    ],
+    "resource/assets/CheckBox/checkbox_select_up_5a2a9a6b.png": [
+        2079181669,
+        "1493450724786"
+    ],
+    "resource/assets/CheckBox/checkbox_unselect_3d86c675.png": [
+        978323561,
+        "1493450724794"
+    ],
+    "resource/assets/ItemRenderer/selected_39df3b3b.png": [
+        -1496166998,
+        "1493450724795"
+    ],
+    "resource/assets/Panel/border_214f29ef.png": [
+        -1012512181,
+        "1493450724797"
+    ],
+    "resource/assets/Panel/header_70e8b1ba.png": [
+        -172040052,
+        "1493450724798"
+    ],
+    "resource/assets/ProgressBar/thumb_pb_1f268a14.png": [
+        144264495,
+        "1493450724800"
+    ],
+    "resource/assets/ProgressBar/track_pb_c46a9c2.png": [
+        1925869113,
+        "1493450724801"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_disabled_27411c2c.png": [
+        1490382934,
+        "1493450724802"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_down_27411c2c.png": [
+        1490382934,
+        "1493450724803"
+    ],
+    "resource/assets/RadioButton/radiobutton_select_up_7f370587.png": [
+        797716121,
+        "1493450724804"
+    ],
+    "resource/assets/RadioButton/radiobutton_unselect_6901cb9d.png": [
+        1314572101,
+        "1493450724806"
+    ],
+    "resource/assets/ScrollBar/roundthumb_12cc3aed.png": [
+        -909991001,
+        "1493450724807"
+    ],
+    "resource/assets/ScrollBar/track_sb_42638551.png": [
+        2090965559,
+        "1493450724808"
+    ],
+    "resource/assets/Slider/thumb_7b555b75.png": [
+        1762541776,
+        "1493450724809"
+    ],
+    "resource/assets/Slider/tracklight_12cc3aed.png": [
+        -909991001,
+        "1493450724812"
+    ],
+    "resource/assets/Slider/track_42638551.png": [
+        2090965559,
+        "1493450724810"
+    ],
+    "resource/assets/ToggleSwitch/handle_540fac0.png": [
+        -1621204125,
+        "1493450724813"
+    ],
+    "resource/assets/ToggleSwitch/off_57dc3e5b.png": [
+        204087173,
+        "1493450724815"
+    ],
+    "resource/assets/ToggleSwitch/on_b7b2083.png": [
+        850040711,
+        "1493450724816"
+    ],
+    "resource/imgs/sheets/poker_cards_normal_3ae650c.png": [
+        null,
+        "1493450724914"
+    ],
+    "resource/imgs/sheets/poker_cards_normal_7c08a5c6.json": [
+        566529067,
+        "1493450724927"
+    ],
+    "resource/skins/scenes/HallSceneSkin.exml": [
+        320057088,
+        "1493450710936"
+    ],
+    "resource/skins/scenes/LoadSceneSkin.exml": [
+        97130604,
+        "1493450710936"
+    ],
+    "resource/skins/scenes/LoginSceneSkin.exml": [
+        -1536576405,
+        "1493450710938"
+    ],
+    "resource/skins/scenes/RoomSceneSkin.exml": [
+        -1591264436,
+        "1493450710939"
+    ],
+    "resource/skins/windows/LoadWinSkin.exml": [
+        1169727837,
+        "1493450710940"
+    ],
+    "resource/skins/windows/MsgWinSkin.exml": [
+        1293563556,
+        "1493450710940"
+    ],
+    "resource/skins/windows/NetRequestWinSkin.exml": [
+        -1165963547,
+        "1493450710941"
+    ],
+    "resource/imgs/window/activity/btn_activity_1_a_671115c4.png": [
+        -201325025,
+        "1493450724678"
+    ],
+    "resource/imgs/window/activity/btn_activity_1_z_7454b627.png": [
+        -1227186702,
+        "1493450724679"
+    ],
+    "resource/imgs/window/activity/btn_activity_2_a_651ec7d5.png": [
+        237355856,
+        "1493450724681"
+    ],
+    "resource/imgs/window/activity/img_activity_1_7454b627.png": [
+        -1227186702,
+        "1493450724683"
+    ],
+    "resource/imgs/window/activity/btn_activity_2_z_5edb0668.png": [
+        680684479,
+        "1493450724682"
+    ],
+    "resource/imgs/window/activity/img_activity_2_5edb0668.png": [
+        680684479,
+        "1493450724685"
+    ],
+    "resource/imgs/window/activity/img_bg_activity_4d0bc962.png": [
+        460488797,
+        "1493450724687"
+    ],
+    "resource/imgs/window/exchange/img_bg_exchange_7e82715d.png": [
+        null,
+        "1493450724689"
+    ],
+    "resource/imgs/window/exchange/input_a_5a11190b.png": [
+        -1776557774,
+        "1493450724690"
+    ],
+    "resource/imgs/window/exchange/input_z_7c1e11ca.png": [
+        -949960521,
+        "1493450724692"
+    ],
+    "resource/imgs/window/gift/btn_get_a_21e2dfa1.png": [
+        -937490341,
+        "1493450724693"
+    ],
+    "resource/imgs/window/gift/btn_get_z_7a7e63ef.png": [
+        -1639574970,
+        "1493450724694"
+    ],
+    "resource/imgs/window/gift/img_bg_gift_39fc5985.png": [
+        null,
+        "1493450724696"
+    ],
+    "resource/imgs/window/gift/img_gift_bar_64824156.png": [
+        405268,
+        "1493450724697"
+    ],
+    "resource/imgs/window/gift/img_gift_got_5e8645c9.png": [
+        275994277,
+        "1493450724698"
+    ],
+    "resource/imgs/window/gift/img_gift_got_today_88507e6.png": [
+        -22383129,
+        "1493450724700"
+    ],
+    "resource/imgs/window/help/img_bg_help_27bcbf0b.png": [
+        -2135564292,
+        "1493450724701"
+    ],
+    "resource/imgs/window/help/img_help_1_43bb88d1.png": [
+        822517808,
+        "1493450724702"
+    ],
+    "resource/imgs/window/help/img_help_2_1f7061ff.png": [
+        1079040952,
+        "1493450724703"
+    ],
+    "resource/imgs/window/help/img_help_3_4b97a260.png": [
+        748584284,
+        "1493450724705"
+    ],
+    "resource/imgs/window/rank/btn_rank_gold_a_70f7309a.png": [
+        708481842,
+        "1493450724706"
+    ],
+    "resource/imgs/window/rank/btn_rank_level_a_3b48f151.png": [
+        -1497148240,
+        "1493450724708"
+    ],
+    "resource/imgs/window/rank/btn_rank_gold_z_d0deef7.png": [
+        1839195700,
+        "1493450724707"
+    ],
+    "resource/imgs/window/rank/btn_rank_level_z_16982a18.png": [
+        -706862619,
+        "1493450724709"
+    ],
+    "resource/imgs/window/rank/img_rankitem_focus_7a39e061.png": [
+        -1317602509,
+        "1493450724712"
+    ],
+    "resource/imgs/window/rank/img_bg_rank_53b47a30.png": [
+        1494002971,
+        "1493450724711"
+    ],
+    "resource/imgs/window/setting/btn_changehead_a_9c96b47.png": [
+        1577348845,
+        "1493450724713"
+    ],
+    "resource/imgs/window/setting/cb_check_1cb1830c.png": [
+        -1010616319,
+        "1493450724716"
+    ],
+    "resource/imgs/window/setting/btn_changehead_z_58868297.png": [
+        1452350559,
+        "1493450724715"
+    ],
+    "resource/imgs/window/setting/cb_focus_59f26066.png": [
+        -2039918455,
+        "1493450724716"
+    ],
+    "resource/imgs/window/setting/cb_normal_91d7504.png": [
+        1613607889,
+        "1493450724718"
+    ],
+    "resource/imgs/window/setting/img_bg_setting_49718bae.png": [
+        761876337,
+        "1493450724719"
+    ],
+    "resource/imgs/window/setting/img_choosehead_female_3fb3edec.png": [
+        null,
+        "1493450724722"
+    ],
+    "resource/imgs/window/setting/img_card_64a4d99f.png": [
+        1882022740,
+        "1493450724720"
+    ],
+    "resource/imgs/window/setting/img_choosehead_male_14e2e4cb.png": [
+        null,
+        "1493450724724"
+    ],
+    "resource/imgs/window/setting/img_head_47e9bc0c.png": [
+        -306260163,
+        "1493450724725"
+    ],
+    "resource/imgs/window/setting/img_head_border_689ab8.png": [
+        -520860422,
+        "1493450724726"
+    ],
+    "resource/imgs/window/shop/img_bg_shop_5a0db5c.png": [
+        null,
+        "1493450724728"
+    ],
+    "resource/imgs/window/shop/shop_item_1_a_7d319710.png": [
+        -1650018197,
+        "1493450724730"
+    ],
+    "resource/imgs/window/shop/shop_item_1_z_756b4276.png": [
+        -2033600825,
+        "1493450724732"
+    ],
+    "resource/imgs/window/shop/shop_item_2_a_3051a5db.png": [
+        -965772280,
+        "1493450724734"
+    ],
+    "resource/imgs/window/shop/shop_item_2_z_325b334e.png": [
+        -1354809739,
+        "1493450724736"
+    ],
+    "resource/imgs/window/shop/shop_item_3_a_387d8b50.png": [
+        1719115615,
+        "1493450724739"
+    ],
+    "resource/imgs/window/shop/shop_item_3_z_6b496b48.png": [
+        1683679293,
+        "1493450724740"
+    ],
+    "resource/imgs/window/shop/shop_item_4_a_1f5b2fc5.png": [
+        776471105,
+        "1493450724741"
+    ],
+    "resource/imgs/window/shop/shop_item_4_z_2ffc6852.png": [
+        -1303598932,
+        "1493450724742"
+    ],
+    "resource/imgs/window/shop/shop_item_5_a_19ecee25.png": [
+        -232200699,
+        "1493450724744"
+    ],
+    "resource/imgs/window/shop/shop_item_5_z_48420d9.png": [
+        202705776,
+        "1493450724745"
+    ],
+    "resource/imgs/window/shop/shop_item_6_a_41e7674a.png": [
+        1757009077,
+        "1493450724747"
+    ],
+    "resource/imgs/window/shop/shop_item_6_z_6380fc23.png": [
+        -1818518274,
+        "1493450724748"
+    ],
+    "resource/imgs/window/stage/btn_close_a_374c458c.png": [
+        463775465,
+        "1493450724750"
+    ],
+    "resource/imgs/window/stage/btn_close_z_6a123676.png": [
+        1341848102,
+        "1493450724751"
+    ],
+    "resource/imgs/window/stage/btn_stage_1_a_565ab26c.png": [
+        719924530,
+        "1493450724752"
+    ],
+    "resource/imgs/window/stage/btn_stage_1_z_7c87adca.png": [
+        -274629378,
+        "1493450724754"
+    ],
+    "resource/imgs/window/stage/btn_stage_2_a_45574919.png": [
+        -1637879795,
+        "1493450724756"
+    ],
+    "resource/imgs/window/stage/btn_stage_2_z_28081593.png": [
+        -673770934,
+        "1493450724758"
+    ],
+    "resource/imgs/window/stage/btn_stage_3_a_65d6f2c4.png": [
+        -130180132,
+        "1493450724759"
+    ],
+    "resource/imgs/window/stage/btn_stage_3_z_58eb238d.png": [
+        -1971970808,
+        "1493450724761"
+    ],
+    "resource/imgs/window/stage/btn_stage_4_a_6b54918e.png": [
+        24835495,
+        "1493450724763"
+    ],
+    "resource/imgs/window/stage/btn_stage_4_z_3f3ed311.png": [
+        1677827596,
+        "1493450724764"
+    ],
+    "resource/imgs/window/stage/btn_stage_quickstart_a_79bec05b.png": [
+        1380973466,
+        "1493450724766"
+    ],
+    "resource/imgs/window/stage/btn_stage_quickstart_z_5e43372.png": [
+        640175281,
+        "1493450724767"
+    ],
+    "resource/imgs/window/stage/img_bg_stage_1699ff37.png": [
+        -74949498,
+        "1493450724768"
+    ],
+    "resource/imgs/window/stage/img_scroll_bar_e54edab.png": [
+        403435229,
+        "1493450724770"
+    ],
+    "resource/imgs/window/stage/img_scroll_line_19e4e611.png": [
+        1624896579,
+        "1493450724772"
+    ],
+    "resource/imgs/window/stage/img_stageitem_focus_4a6d2927.png": [
+        -1535910643,
+        "1493450724774"
+    ],
+    "resource/imgs/window/stage/img_stage_bar_654774ac.png": [
+        -1856883817,
+        "1493450724775"
+    ],
+    "resource/imgs/window/stage/img_stage_bar_bg_58aa2878.png": [
+        231777585,
+        "1493450724776"
+    ],
+    "resource/skins/components/hall/NewsComSkin.exml": [
+        -1722281565,
+        "1493450710925"
+    ],
+    "resource/skins/components/hall/RoomDetailComSkin.exml": [
+        842911702,
+        "1493450710928"
+    ],
+    "resource/skins/components/hall/SelfHeadComSkin.exml": [
+        -1192216160,
+        "1493450710933"
+    ],
+    "resource/skins/components/hall/roomlists/RoomListComSkin.exml": [
+        972419422,
+        "1493450710934"
+    ],
+    "resource/skins/components/hall/roomlists/RoomListItemComSkin.exml": [
+        -86253656,
+        "1493450710935"
+    ]
+}
